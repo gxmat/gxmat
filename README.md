@@ -1,16 +1,13 @@
-### Hi there 👋
+#### Hi there 👋
 
-<!--
-**gxmat/gxmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanical Engineer in the Nuclear Fusion space  
+Gaining new skills with Python & Web Development
+And hopefully make some apps (and friends 🥺) along the way  
 
-Here are some ideas to get you started:
+☀ The heart of the sun,  
+🧲 Confined by magnets and steel:  
+⚡ Limitless power
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently learning:
+- Python ❤, FastAPI
+- HTML, CSS, TS, Svelte ❤
