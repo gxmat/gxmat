@@ -1,11 +1,11 @@
 #### Hi there 👋
 
 I'm a Mechanical Engineer in the Nuclear Fusion space  
-Gaining new skills with Python & Web Development
+Gaining new skills with Python & Web Development  
 And hopefully make some apps (and friends 🥺) along the way  
 
 ☀ The heart of the sun,  
-🧲 Confined by magnets and steel:  
+🧲 Confined by magnets and steel;  
 ⚡ Limitless power
 
 #### Currently learning:
