@@ -7,5 +7,5 @@ I'm a Mechanical Engineer in Nuclear Fusion. Currently learning new skills with 
 ⚡ Limitless power
 
 #### Working with:
-- Python ❤, Flask
-- HTML, CSS ❤
+- Python, Flask
+- HTML, CSS
